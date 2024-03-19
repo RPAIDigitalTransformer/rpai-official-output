@@ -1,0 +1,1 @@
+{"version":3,"file":"SectionHeading-28314b89.js","sources":["../../../../components/content/SectionHeading.vue"],"sourcesContent":["<template>\n    <div class=\"section-heading\">\n        <slot/>\n    </div>\n</template>"],"names":[],"mappings":";;;;AACS,SAAA,eAAA,MAAA,OAAA,SAAA,QAAuB;;;;;;;;;;;;"}

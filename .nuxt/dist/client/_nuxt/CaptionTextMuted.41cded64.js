@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper.c27b6911.js";import{o,c as s,B as c}from"./entry.88c23b46.js";const n={},r={class:"caption text-muted"};function a(t,_){return o(),s("span",r,[c(t.$slots,"default")])}const l=e(n,[["render",a]]);export{l as default};

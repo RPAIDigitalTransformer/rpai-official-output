@@ -1,0 +1,1 @@
+{"version":3,"file":"BlockQuote-d7ed98e5.js","sources":["../../../../components/content/BlockQuote.vue"],"sourcesContent":["<template>\n    <blockquote class=\"blockquote\">\n        <slot></slot>\n    </blockquote>\n</template>"],"names":[],"mappings":";;;;AACgB,SAAA,eAAA,MAAA,OAAA,SAAA,QAAA;;;;;;;;;;;;"}
