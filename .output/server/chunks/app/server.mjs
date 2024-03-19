@@ -471,7 +471,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: void 0,
-    component: () => import('./_nuxt/Contact-0c193c46.mjs').then((m) => m.default || m)
+    component: () => import('./_nuxt/Contact-bcd7087f.mjs').then((m) => m.default || m)
   },
   {
     name: "slug",
@@ -479,7 +479,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: void 0,
-    component: () => import('./_nuxt/_...slug_-6359ff17.mjs').then((m) => m.default || m)
+    component: () => import('./_nuxt/_...slug_-f99ba64e.mjs').then((m) => m.default || m)
   },
   {
     name: "index",
@@ -487,7 +487,7 @@ const _routes = [
     meta: {},
     alias: [],
     redirect: void 0,
-    component: () => import('./_nuxt/index-fe5a3e24.mjs').then((m) => m.default || m)
+    component: () => import('./_nuxt/index-4beb496e.mjs').then((m) => m.default || m)
   }
 ];
 const appHead = { "meta": [{ "charset": "utf-8" }, { "name": "viewport", "content": "width=device-width, initial-scale=1" }], "link": [{ "href": "https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic", "rel": "stylesheet", "type": "text/css" }, { "href": "https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800", "rel": "stylesheet", "type": "text/css" }], "style": [], "script": [{ "src": "https://use.fontawesome.com/releases/v6.3.0/js/all.js", "crossorigin": "anonymous" }, { "src": "js/scripts.js" }], "noscript": [{ "children": "Javascript is required" }] };
